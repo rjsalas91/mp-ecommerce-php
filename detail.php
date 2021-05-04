@@ -57,7 +57,7 @@ $preference->back_urls          = [
     'failure' => $domain . 'response.php?mp_status=failure',
     'pending' => $domain . 'response.php?mp_status=pending'
 ];
-$preference->auto_return      = 'all';
+$preference->auto_return      = 'approved';
 $preference->notification_url = $domain . 'notification.php?source_news=webhooks';
 $preference->items            = [$item];
 $preference->payer            = $payer;
