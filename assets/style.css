@@ -1,0 +1,60 @@
+.as-filter-button-text {
+  font-size: 26px;
+  font-weight: 700;
+  color: #333;
+}
+
+.row.as-fixed-nav {
+  border-bottom: 1px solid #ddd;
+}
+
+.as-producttile-tilehero.with-paddlenav.with-paddlenav-onhover {
+  height: 330px;
+}
+
+.as-footnotes {
+  background: #333;
+  color: #fff;
+  padding: 16px 40px;
+}
+
+.mp-spinner {
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  font-size: 70px;
+  margin-left: -35px;
+  animation: loading-rotate 2.5s linear infinite;
+  transform-origin: center center;
+  width: 1em;
+  height: 1em;
+}
+
+.mp-spinner-path {
+  stroke-dasharray: 1, 200;
+  stroke-dashoffset: 0;
+  animation: loading-dash 1.5s ease-in-out infinite;
+  stroke-linecap: round;
+  stroke-width: 2px;
+  stroke: #009ee3;
+}
+
+.mercadopago-button {
+  padding: 1em 1.7142857142857142em;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.875em;
+  /* line-height: 3em; */
+  background: #009ee3;
+  border-radius: 0.2857142857142857em;
+  color: #fff;
+  cursor: pointer;
+  border: 0;
+}
+
+.mercadopago-button:hover {
+  text-decoration: none;
+}
+
+.mt-2 {
+  margin-top: 2em;
+}
