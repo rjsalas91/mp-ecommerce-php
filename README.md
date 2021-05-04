@@ -1,3 +1,7 @@
+# Certificación de desarrollador de Mercado Pago Checkout Pro
+
+https://rjsalas91-mp-commerce-php.herokuapp.com/
+
 # mp-ecommerce
 
 Este e-commerce de ejemplo será la base para la integración de MercadoPago con `php`.
